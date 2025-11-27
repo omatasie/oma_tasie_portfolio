@@ -1,0 +1,192 @@
+Country Name,Country Code,Series Name,Series Code,2000 [YR2000],2001 [YR2001],2002 [YR2002],2003 [YR2003],2004 [YR2004],2005 [YR2005],2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022],2023 [YR2023],2024 [YR2024]
+Nigeria,NGA,"School enrollment, primary (% net)",SE.PRM.NENR,65.08852,..,..,..,66.39932,66.85314,67.3432,70.31079,63.39998,64.34126,64.13783,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Nigeria,NGA,"School enrollment, primary, female (% net)",SE.PRM.NENR.FE,59.17909,..,..,..,61.49874,62.13848,63.2655,62.70804,56.74462,57.87079,58.10557,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Nigeria,NGA,"School enrollment, primary, male (% net)",SE.PRM.NENR.MA,70.80227,..,..,..,71.13389,71.40649,71.28012,77.64785,69.81864,70.57702,69.94699,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Nigeria,NGA,"School enrollment, secondary (% net)",SE.SEC.NENR,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Nigeria,NGA,"School enrollment, secondary, female (% net)",SE.SEC.NENR.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Nigeria,NGA,"School enrollment, secondary, male (% net)",SE.SEC.NENR.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Nigeria,NGA,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,..,..,..,54.7700004577637,..,..,70.1999969482422,..,..,..,..,..,..,..,..,..,58.2200012207031,..,..,..,..,63.1599998474121,..,..,70.4100036621094
+Nigeria,NGA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,43.3199996948242,..,..,64.25,..,..,..,..,..,..,..,..,..,49.060001373291,..,..,..,..,53.25,..,..,62.4199981689453
+Nigeria,NGA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,66.7699966430664,..,..,76.129997253418,..,..,..,..,..,..,..,..,..,68.120002746582,..,..,81.6080964910529,..,73.7300033569336,..,..,78.4300003051758
+Nigeria,NGA,"Pupil-teacher ratio, primary",SE.PRM.ENRL.TC.ZS,42.9015,39.00579,40.27665,34.87788,35.80647,36.90999,40.4173,46.08983,..,..,37.55319,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Last Updated: 10/07/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Code,License Type,Indicator Name,Short definition,Long definition,Source,Topic,Dataset,Unit of measure,Periodicity,Reference period,Aggregation method,Statistical concept and methodology,Development relevance,Limitations and exceptions,License URL
+SE.PRM.NENR,CC BY-4.0,"School enrollment, primary (% net)","Net enrollment rate is the ratio of children of official school age who are enrolled in school to the population of the corresponding official school age. Primary education provides children with basic reading, writing, and mathematics skills along with an elementary understanding of such subjects as history, geography, natural science, social science, art, and music.","Net enrollment rate is the ratio of children of official school age who are enrolled in school to the population of the corresponding official school age. Primary education provides children with basic reading, writing, and mathematics skills along with an elementary understanding of such subjects as history, geography, natural science, social science, art, and music.","Stat Bulk Data Download Service, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://uis.unesco.org/bdds, publisher: UNESCO Institute for Statistics (UIS)",Education: Participation,WDI,,Annual,1970-2019,Weighted average,"Methodology: Net enrollment rate for primary school is calculated by dividing the number of students of official school age enrolled in primary education by the population of the age group which officially corresponds to primary education, and multiplying by 100. 
+
+Data on education are collected by the UNESCO Institute for Statistics from official responses to its annual education survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations Population Division. Using a single source for population data standardizes definitions, estimations, and interpolation methods, ensuring a consistent methodology across countries and minimizing potential enumeration problems in national censuses.
+
+The reference years reflect the school year for which the data are presented. In some countries the school year spans two calendar years (for example, from September 2010 to June 2011); in these cases the reference year refers to the year in which the school year ended (2011 in the example).
+Statistical concept(s):","Gross enrollment ratios indicate the capacity of each level of the education system, but a high ratio may reflect a substantial number of overage children enrolled in each grade because of repetition or late entry rather than a successful education system. The net enrollment rate excludes overage and underage students and more accurately captures the system's coverage and internal efficiency. Differences between the gross enrollment ratio and the net enrollment rate show the incidence of overage and underage enrollments.","Enrollment indicators are based on annual school surveys, but do not necessarily reflect actual attendance or dropout rates during the year. Also, the length of education differs across countries and can influence enrollment rates, although the International Standard Classification of Education (ISCED) tries to minimize the difference. For example, a shorter duration for primary education tends to increase the rate; a longer one to decrease it (in part because older children are more at risk of dropping out). Moreover, age at enrollment may be inaccurately estimated or misstated, especially in communities where registration of births is not strictly enforced.",https://datacatalog.worldbank.org/public-licenses#cc-by
+SE.PRM.NENR.FE,CC BY-4.0,"School enrollment, primary, female (% net)","Net enrollment rate is the ratio of children of official school age who are enrolled in school to the population of the corresponding official school age. Primary education provides children with basic reading, writing, and mathematics skills along with an elementary understanding of such subjects as history, geography, natural science, social science, art, and music.","Net enrollment rate is the ratio of children of official school age who are enrolled in school to the population of the corresponding official school age. Primary education provides children with basic reading, writing, and mathematics skills along with an elementary understanding of such subjects as history, geography, natural science, social science, art, and music.","UNESCO Institute for Statistics (UIS), UN Educational, Scientific and Cultural Organization (UNESCO), uri: http://uis.unesco.org/, publisher: UNESCO Institute for Statistics (UIS)",Education: Participation,WDI,,Annual,1970-2019,Weighted average,"Methodology: Net enrollment rate for primary school is calculated by dividing the number of students of official school age enrolled in primary education by the population of the age group which officially corresponds to primary education, and multiplying by 100. 
+
+Data on education are collected by the UNESCO Institute for Statistics from official responses to its annual education survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations Population Division. Using a single source for population data standardizes definitions, estimations, and interpolation methods, ensuring a consistent methodology across countries and minimizing potential enumeration problems in national censuses.
+
+The reference years reflect the school year for which the data are presented. In some countries the school year spans two calendar years (for example, from September 2010 to June 2011); in these cases the reference year refers to the year in which the school year ended (2011 in the example).","Gross enrollment ratios indicate the capacity of each level of the education system, but a high ratio may reflect a substantial number of overage children enrolled in each grade because of repetition or late entry rather than a successful education system. The net enrollment rate excludes overage and underage students and more accurately captures the system's coverage and internal efficiency. Differences between the gross enrollment ratio and the net enrollment rate show the incidence of overage and underage enrollments.","Enrollment indicators are based on annual school surveys, but do not necessarily reflect actual attendance or dropout rates during the year. Also, the length of education differs across countries and can influence enrollment rates, although the International Standard Classification of Education (ISCED) tries to minimize the difference. For example, a shorter duration for primary education tends to increase the rate; a longer one to decrease it (in part because older children are more at risk of dropping out). Moreover, age at enrollment may be inaccurately estimated or misstated, especially in communities where registration of births is not strictly enforced.",https://datacatalog.worldbank.org/public-licenses#cc-by
+SE.PRM.NENR.MA,CC BY-4.0,"School enrollment, primary, male (% net)","Net enrollment rate is the ratio of children of official school age who are enrolled in school to the population of the corresponding official school age. Primary education provides children with basic reading, writing, and mathematics skills along with an elementary understanding of such subjects as history, geography, natural science, social science, art, and music.","Net enrollment rate is the ratio of children of official school age who are enrolled in school to the population of the corresponding official school age. Primary education provides children with basic reading, writing, and mathematics skills along with an elementary understanding of such subjects as history, geography, natural science, social science, art, and music.","Stat Bulk Data Download Service, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://uis.unesco.org/bdds, publisher: UNESCO Institute for Statistics (UIS)",Education: Participation,WDI,,Annual,1970-2019,Weighted average,"Methodology: Net enrollment rate for primary school is calculated by dividing the number of students of official school age enrolled in primary education by the population of the age group which officially corresponds to primary education, and multiplying by 100. 
+
+Data on education are collected by the UNESCO Institute for Statistics from official responses to its annual education survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations Population Division. Using a single source for population data standardizes definitions, estimations, and interpolation methods, ensuring a consistent methodology across countries and minimizing potential enumeration problems in national censuses.
+
+The reference years reflect the school year for which the data are presented. In some countries the school year spans two calendar years (for example, from September 2010 to June 2011); in these cases the reference year refers to the year in which the school year ended (2011 in the example).
+Statistical concept(s):","Gross enrollment ratios indicate the capacity of each level of the education system, but a high ratio may reflect a substantial number of overage children enrolled in each grade because of repetition or late entry rather than a successful education system. The net enrollment rate excludes overage and underage students and more accurately captures the system's coverage and internal efficiency. Differences between the gross enrollment ratio and the net enrollment rate show the incidence of overage and underage enrollments.","Enrollment indicators are based on annual school surveys, but do not necessarily reflect actual attendance or dropout rates during the year. Also, the length of education differs across countries and can influence enrollment rates, although the International Standard Classification of Education (ISCED) tries to minimize the difference. For example, a shorter duration for primary education tends to increase the rate; a longer one to decrease it (in part because older children are more at risk of dropping out). Moreover, age at enrollment may be inaccurately estimated or misstated, especially in communities where registration of births is not strictly enforced.",https://datacatalog.worldbank.org/public-licenses#cc-by
+SE.SEC.NENR,CC BY-4.0,"School enrollment, secondary (% net)","Net enrollment rate is the ratio of children of official school age who are enrolled in school to the population of the corresponding official school age. Secondary education completes the provision of basic education that began at the primary level, and aims at laying the foundations for lifelong learning and human development, by offering more subject- or skill-oriented instruction using more specialized teachers.","Net enrollment rate is the ratio of children of official school age who are enrolled in school to the population of the corresponding official school age. Secondary education completes the provision of basic education that began at the primary level, and aims at laying the foundations for lifelong learning and human development, by offering more subject- or skill-oriented instruction using more specialized teachers.","Stat Bulk Data Download Service, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://uis.unesco.org/bdds, publisher: UNESCO Institute for Statistics (UIS)",Education: Participation,WDI,,Annual,1970-2019,Weighted average,"Methodology: Net enrollment rate for secondary school is calculated by dividing the number of students of official school age enrolled in secondary education by the population of the age group which officially corresponds to secondary education, and multiplying by 100. 
+
+Data on education are collected by the UNESCO Institute for Statistics from official responses to its annual education survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations Population Division. Using a single source for population data standardizes definitions, estimations, and interpolation methods, ensuring a consistent methodology across countries and minimizing potential enumeration problems in national censuses.
+
+The reference years reflect the school year for which the data are presented. In some countries the school year spans two calendar years (for example, from September 2010 to June 2011); in these cases the reference year refers to the year in which the school year ended (2011 in the example).
+Statistical concept(s):","Gross enrollment ratios indicate the capacity of each level of the education system, but a high ratio may reflect a substantial number of overage children enrolled in each grade because of repetition or late entry rather than a successful education system. The net enrollment rate excludes overage and underage students and more accurately captures the system's coverage and internal efficiency. Differences between the gross enrollment ratio and the net enrollment rate show the incidence of overage and underage enrollments.","Enrollment indicators are based on annual school surveys, but do not necessarily reflect actual attendance or dropout rates during the year. Also, the length of education differs across countries and can influence enrollment rates, although the International Standard Classification of Education (ISCED) tries to minimize the difference. For example, a shorter duration for primary education tends to increase the rate; a longer one to decrease it (in part because older children are more at risk of dropping out). Moreover, age at enrollment may be inaccurately estimated or misstated, especially in communities where registration of births is not strictly enforced.",https://datacatalog.worldbank.org/public-licenses#cc-by
+SE.SEC.NENR.FE,CC BY-4.0,"School enrollment, secondary, female (% net)","Net enrollment rate is the ratio of children of official school age who are enrolled in school to the population of the corresponding official school age. Secondary education completes the provision of basic education that began at the primary level, and aims at laying the foundations for lifelong learning and human development, by offering more subject- or skill-oriented instruction using more specialized teachers.","Net enrollment rate is the ratio of children of official school age who are enrolled in school to the population of the corresponding official school age. Secondary education completes the provision of basic education that began at the primary level, and aims at laying the foundations for lifelong learning and human development, by offering more subject- or skill-oriented instruction using more specialized teachers.","Stat Bulk Data Download Service, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://uis.unesco.org/bdds, publisher: UNESCO Institute for Statistics (UIS)",Education: Participation,WDI,,Annual,1970-2019,Weighted average,"Methodology: Net enrollment rate for secondary school is calculated by dividing the number of students of official school age enrolled in secondary education by the population of the age group which officially corresponds to secondary education, and multiplying by 100. 
+
+Data on education are collected by the UNESCO Institute for Statistics from official responses to its annual education survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations Population Division. Using a single source for population data standardizes definitions, estimations, and interpolation methods, ensuring a consistent methodology across countries and minimizing potential enumeration problems in national censuses.
+
+The reference years reflect the school year for which the data are presented. In some countries the school year spans two calendar years (for example, from September 2010 to June 2011); in these cases the reference year refers to the year in which the school year ended (2011 in the example).
+Statistical concept(s):","Gross enrollment ratios indicate the capacity of each level of the education system, but a high ratio may reflect a substantial number of overage children enrolled in each grade because of repetition or late entry rather than a successful education system. The net enrollment rate excludes overage and underage students and more accurately captures the system's coverage and internal efficiency. Differences between the gross enrollment ratio and the net enrollment rate show the incidence of overage and underage enrollments.","Enrollment indicators are based on annual school surveys, but do not necessarily reflect actual attendance or dropout rates during the year. Also, the length of education differs across countries and can influence enrollment rates, although the International Standard Classification of Education (ISCED) tries to minimize the difference. For example, a shorter duration for primary education tends to increase the rate; a longer one to decrease it (in part because older children are more at risk of dropping out). Moreover, age at enrollment may be inaccurately estimated or misstated, especially in communities where registration of births is not strictly enforced.",https://datacatalog.worldbank.org/public-licenses#cc-by
+SE.SEC.NENR.MA,CC BY-4.0,"School enrollment, secondary, male (% net)","Net enrollment rate is the ratio of children of official school age who are enrolled in school to the population of the corresponding official school age. Secondary education completes the provision of basic education that began at the primary level, and aims at laying the foundations for lifelong learning and human development, by offering more subject- or skill-oriented instruction using more specialized teachers.","Net enrollment rate is the ratio of children of official school age who are enrolled in school to the population of the corresponding official school age. Secondary education completes the provision of basic education that began at the primary level, and aims at laying the foundations for lifelong learning and human development, by offering more subject- or skill-oriented instruction using more specialized teachers.","Stat Bulk Data Download Service, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://uis.unesco.org/bdds, publisher: UNESCO Institute for Statistics (UIS)",Education: Participation,WDI,,Annual,1970-2019,Weighted average,"Methodology: Net enrollment rate for secondary school is calculated by dividing the number of students of official school age enrolled in secondary education by the population of the age group which officially corresponds to secondary education, and multiplying by 100. 
+
+Data on education are collected by the UNESCO Institute for Statistics from official responses to its annual education survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations Population Division. Using a single source for population data standardizes definitions, estimations, and interpolation methods, ensuring a consistent methodology across countries and minimizing potential enumeration problems in national censuses.
+
+The reference years reflect the school year for which the data are presented. In some countries the school year spans two calendar years (for example, from September 2010 to June 2011); in these cases the reference year refers to the year in which the school year ended (2011 in the example).
+Statistical concept(s):","Gross enrollment ratios indicate the capacity of each level of the education system, but a high ratio may reflect a substantial number of overage children enrolled in each grade because of repetition or late entry rather than a successful education system. The net enrollment rate excludes overage and underage students and more accurately captures the system's coverage and internal efficiency. Differences between the gross enrollment ratio and the net enrollment rate show the incidence of overage and underage enrollments.","Enrollment indicators are based on annual school surveys, but do not necessarily reflect actual attendance or dropout rates during the year. Also, the length of education differs across countries and can influence enrollment rates, although the International Standard Classification of Education (ISCED) tries to minimize the difference. For example, a shorter duration for primary education tends to increase the rate; a longer one to decrease it (in part because older children are more at risk of dropping out). Moreover, age at enrollment may be inaccurately estimated or misstated, especially in communities where registration of births is not strictly enforced.",https://datacatalog.worldbank.org/public-licenses#cc-by
+SE.ADT.LITR.ZS,CC BY-4.0,"Literacy rate, adult total (% of people ages 15 and above)",Adult literacy rate is the percentage of people ages 15 and above who can both read and write with understanding a short simple statement about their everyday life.,Adult literacy rate is the percentage of people ages 15 and above who can both read and write with understanding a short simple statement about their everyday life.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Excel (bulk file), date accessed: 2025-09-22, date published: 2025-09",Education: Outcomes,WDI,% of people ages 15 and above,Annual,1970-2023,Weighted average,"Methodology: The indicator is calculated by the number of literate adults divided by the total number of adults, excluding adults with unknown literacy status.  
+
+
+
+Data on literacy are compiled by the UNESCO Institute for Statistics based on national censuses and household surveys and, for countries without recent literacy data, using the Global Age-Specific Literacy Projection Model (GALP). For detailed information, see www.uis.unesco.org.
+Statistical concept(s): Literacy statistics for most countries cover the population ages 15 and older, but some include younger ages or are confined to age ranges that tend to inflate literacy rates. The youth literacy rate for ages 15-24 reflects recent progress in education. It measures the accumulated outcomes of primary education over the previous 10 years or so by indicating the proportion of the population who have passed through the primary education system and acquired basic literacy and numeracy skills. Generally, literacy also encompasses numeracy, the ability to make simple arithmetic calculations.","Literacy rate is an outcome indicator to evaluate educational attainment. This data can predict the quality of future labor force and can be used in ensuring policies for life skills for men and women.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It can be also used as a proxy instrument to see the effectiveness of education system; a high literacy rate suggests the capacity of an education system to provide a large population with opportunities to acquire literacy skills. The accumulated achievement of education is fundamental for further intellectual growth and social and economic development, although it doesn't necessarily ensure the quality of education.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Literate women implies that they can seek and use information for the betterment of the health, nutrition and education of their household members. Literate women are also empowered to play a meaningful role.","In practice, literacy is difficult to measure. Estimating literacy rates requires census or survey measurements under controlled conditions. Many countries report the number of literate people from self-reported data. Some use educational attainment data as a proxy but apply different lengths of school attendance or levels of completion. Ant there is a trend among recent national and international surveys toward using a direct reading test of literacy skills. Because definitions and methods of data collection differ across countries, data should be used cautiously.",https://datacatalog.worldbank.org/public-licenses#cc-by
+SE.ADT.LITR.FE.ZS,CC BY-4.0,"Literacy rate, adult female (% of females ages 15 and above)",Adult literacy rate is the percentage of people ages 15 and above who can both read and write with understanding a short simple statement about their everyday life.,Adult literacy rate is the percentage of people ages 15 and above who can both read and write with understanding a short simple statement about their everyday life.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Excel (bulk file), date accessed: 2025-09-22, date published: 2025-09",Education: Outcomes,WDI,% of females ages 15 and above,Annual,1970-2023,Weighted average,"Methodology: The indicator is calculated by the number of literate adults divided by the total number of adults, excluding adults with unknown literacy status.  
+
+
+
+Data on literacy are compiled by the UNESCO Institute for Statistics based on national censuses and household surveys and, for countries without recent literacy data, using the Global Age-Specific Literacy Projection Model (GALP). For detailed information, see www.uis.unesco.org.
+Statistical concept(s): Literacy statistics for most countries cover the population ages 15 and older, but some include younger ages or are confined to age ranges that tend to inflate literacy rates. The youth literacy rate for ages 15-24 reflects recent progress in education. It measures the accumulated outcomes of primary education over the previous 10 years or so by indicating the proportion of the population who have passed through the primary education system and acquired basic literacy and numeracy skills. Generally, literacy also encompasses numeracy, the ability to make simple arithmetic calculations.","Literacy rate is an outcome indicator to evaluate educational attainment. This data can predict the quality of future labor force and can be used in ensuring policies for life skills for men and women.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It can be also used as a proxy instrument to see the effectiveness of education system; a high literacy rate suggests the capacity of an education system to provide a large population with opportunities to acquire literacy skills. The accumulated achievement of education is fundamental for further intellectual growth and social and economic development, although it doesn't necessarily ensure the quality of education.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Literate women implies that they can seek and use information for the betterment of the health, nutrition and education of their household members. Literate women are also empowered to play a meaningful role.","In practice, literacy is difficult to measure. Estimating literacy rates requires census or survey measurements under controlled conditions. Many countries report the number of literate people from self-reported data. Some use educational attainment data as a proxy but apply different lengths of school attendance or levels of completion. Ant there is a trend among recent national and international surveys toward using a direct reading test of literacy skills. Because definitions and methods of data collection differ across countries, data should be used cautiously.",https://datacatalog.worldbank.org/public-licenses#cc-by
+SE.ADT.LITR.MA.ZS,CC BY-4.0,"Literacy rate, adult male (% of males ages 15 and above)",Adult literacy rate is the percentage of people ages 15 and above who can both read and write with understanding a short simple statement about their everyday life.,Adult literacy rate is the percentage of people ages 15 and above who can both read and write with understanding a short simple statement about their everyday life.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Excel (bulk file), date accessed: 2025-09-22, date published: 2025-09",Education: Outcomes,WDI,% of males ages 15 and above,Annual,1970-2023,Weighted average,"Methodology: The indicator is calculated by the number of literate adults divided by the total number of adults, excluding adults with unknown literacy status.  
+
+
+
+Data on literacy are compiled by the UNESCO Institute for Statistics based on national censuses and household surveys and, for countries without recent literacy data, using the Global Age-Specific Literacy Projection Model (GALP). For detailed information, see www.uis.unesco.org.
+Statistical concept(s): Literacy statistics for most countries cover the population ages 15 and older, but some include younger ages or are confined to age ranges that tend to inflate literacy rates. The youth literacy rate for ages 15-24 reflects recent progress in education. It measures the accumulated outcomes of primary education over the previous 10 years or so by indicating the proportion of the population who have passed through the primary education system and acquired basic literacy and numeracy skills. Generally, literacy also encompasses numeracy, the ability to make simple arithmetic calculations.","Literacy rate is an outcome indicator to evaluate educational attainment. This data can predict the quality of future labor force and can be used in ensuring policies for life skills for men and women.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It can be also used as a proxy instrument to see the effectiveness of education system; a high literacy rate suggests the capacity of an education system to provide a large population with opportunities to acquire literacy skills. The accumulated achievement of education is fundamental for further intellectual growth and social and economic development, although it doesn't necessarily ensure the quality of education.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Literate women implies that they can seek and use information for the betterment of the health, nutrition and education of their household members. Literate women are also empowered to play a meaningful role.","In practice, literacy is difficult to measure. Estimating literacy rates requires census or survey measurements under controlled conditions. Many countries report the number of literate people from self-reported data. Some use educational attainment data as a proxy but apply different lengths of school attendance or levels of completion. Ant there is a trend among recent national and international surveys toward using a direct reading test of literacy skills. Because definitions and methods of data collection differ across countries, data should be used cautiously.",https://datacatalog.worldbank.org/public-licenses#cc-by
+SE.PRM.ENRL.TC.ZS,CC BY-4.0,"Pupil-teacher ratio, primary",Primary school pupil-teacher ratio is the average number of pupils per teacher in primary school.,Primary school pupil-teacher ratio is the average number of pupils per teacher in primary school.,"Stat Bulk Data Download Service, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://uis.unesco.org/bdds, publisher: UNESCO Institute for Statistics (UIS)",Education: Inputs,WDI,,Annual,1970-2019,Weighted average,"Methodology: Pupil-teacher ratio is calculated by dividing the number of students at the specified level of education by the number of teachers at the same level of education. 
+
+Data on education are collected by the UNESCO Institute for Statistics from official responses to its annual education survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011. 
+
+The reference years reflect the school year for which the data are presented. In some countries the school year spans two calendar years (for example, from September 2010 to June 2011); in these cases the reference year refers to the year in which the school year ended (2011 in the example).
+Statistical concept(s):","The pupil-teacher ratio is often used to compare the quality of schooling across countries, but it is often weakly related to student learning and quality of education.","The comparability of pupil-teacher ratios across countries is affected by the definition of teachers and by differences in class size by grade and in the number of hours taught, as well as the different practices countries employ such as part-time teachers, school shifts, and multi-grade classes. Moreover, the underlying enrollment levels are subject to a variety of reporting errors.",https://datacatalog.worldbank.org/public-licenses#cc-by
