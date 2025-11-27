@@ -14,7 +14,16 @@ Business, data science and applied analytics student at the University of Southe
 
 Analysis of 20+ years of World Bank education data examining enrollment trends, gender disparities, and regional differences in educational access.
 
-**Status:** In Progress
+---
+
+### 🏥 Claire's Place Foundation - Data Analysis Consulting
+*R | Statistical Analysis | Hypothesis Testing | Survey Analysis*
+
+Led 6-person team analyzing effectiveness of support programs for Cystic Fibrosis patients. Conducted hypothesis testing, regression analysis, and survey quantification to evaluate $579K+ in grants and career development programs. Presented 3-phase strategic roadmap to CEO.
+
+**Key Finding:** Administrative/Legal certification programs showed significantly higher success rates than Creative Design programs (p=0.0429), informing resource allocation recommendations.
+
+[View Case Study →](./claires-place-foundation)
 
 ---
 
