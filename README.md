@@ -1,24 +1,21 @@
-# oma_tasie_portfolio
-
-Data science and analytics portfolio - projects in python, R, Java and SQL.
-
----
+# Data Science and Analytics Portfolio
 
 ## About
-Business, Data Science, and Applied Analytics student at the University of Southern California (USC) exploring the intersection of finance, technology, and social impact. I focus on using analytics to drive insights in business and social impact.
+
+Business, Data Science, and Applied Analytics student at the University of Southern California (USC) passionate about uncovering insights through strategic and technological solutions. I thrive on solving complex challenges at the intersection of finance, technology, and social impact, blending a rigorous analytical approach with human-centric design.
 
 ---
 
 ## Projects
 
-### Project Penny - AI Fraud Detection System
+### 🤖 Project Penny: AI Fraud Detection System
 *Python | Audio Processing | React Native | Raspberry Pi | Machine Learning*
 
 AI-powered scam detection system protecting elderly residents from financial fraud. Engineered real-time audio processing pipeline for VOIP call monitoring and built iOS mobile app for nursing home caregivers using React Native.
 
-**Winner - MAIA Demo Day:** Selected by a panel of Netflix and Google engineers as the top project for its technical rigour, market viability, and tangible social impact.
+**🏆 Winner - MAIA Demo Day:** Selected by a panel of Netflix and Google engineers as the top project for its technical rigour, market viability, and tangible social impact.
 
-**Technical Contributions:**
+**My Contributions:**
 - Audio preprocessing pipeline (noise reduction, bandpass filtering, speech-to-text)
 - iOS mobile interface (alert dashboard, real-time notifications)
 
@@ -26,7 +23,7 @@ AI-powered scam detection system protecting elderly residents from financial fra
 
 ---
 
-### Nigeria Education Access Analysis
+### 📊 Nigeria Education Access Analysis
 *Python | Pandas | Matplotlib | Seaborn*
 
 Analysis of 20+ years of World Bank education data examining enrolment trends, gender disparities, and regional differences in educational access.
@@ -35,7 +32,7 @@ Analysis of 20+ years of World Bank education data examining enrolment trends, g
 
 ---
 
-### Claire's Place Foundation - Data Analysis Consulting
+### 🏥 Claire's Place Foundation - Data Analysis Consulting
 *R | Statistical Analysis | Hypothesis Testing | Survey Analysis*
 
 Led a six-person team evaluating the effectiveness of support programmes for Cystic Fibrosis patients. Conducted hypothesis testing, regression analysis, and survey quantification to evaluate 579,000 dollars in grants. Presented a three-phase strategic roadmap to the CEO.
@@ -46,7 +43,7 @@ Led a six-person team evaluating the effectiveness of support programmes for Cys
 
 ---
 
-### Personal Finance Dashboard
+### 💰 Personal Finance Dashboard
 *Python | Streamlit | Plotly*
 
 Interactive web application for tracking expenses, visualising spending patterns, and managing personal budgets.
@@ -55,7 +52,7 @@ Interactive web application for tracking expenses, visualising spending patterns
 
 ---
 
-### Fashion Brand Sentiment Analysis
+### 👗 Fashion Brand Sentiment Analysis
 *Python | NLP | TextBlob | Scikit-learn*
 
 Natural language processing analysis of customer reviews to extract insights about brand perception and customer satisfaction.
