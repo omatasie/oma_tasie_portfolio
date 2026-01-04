@@ -114,4 +114,8 @@ I co-developed the caregiver-facing interface focused on high-speed monitoring a
 
 ---
 
+[View Project Repository](https://github.com/omatasie/penny-fraud-detection) | [View Case Study PDF](https://github.com/omatasie/penny-fraud-detection/blob/main/MAIA_FINANCE_F25_PENNY_PROJECT.pdf)
+
+---
+
 *Developed by Oma Tasie-Amadi and Team @ USC Marshall AI Association.* **Because Every Penny Matters.**
