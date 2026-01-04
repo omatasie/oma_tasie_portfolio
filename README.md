@@ -75,7 +75,7 @@ Natural language processing analysis of customer reviews to extract insights abo
 
 **Ernst & Young** — Technology Risk Intern | *Summer 2025*
 
-**USC Marshall School of Business** — BS Business Administration (Finance) | **GPA: 3.96** Minors: Applied Analytics
+**USC Marshall School of Business** — BS Business Administration (Finance) | Minor: Applied Analytics | **GPA: 3.96** 
 
 ---
 
