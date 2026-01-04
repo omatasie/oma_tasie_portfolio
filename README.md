@@ -9,6 +9,20 @@ Business, data science and applied analytics student at the University of Southe
 
 ## Projects
 
+### 🤖 PENNY - AI Fraud Detection System
+*Python | Audio Processing | React Native | Raspberry Pi | Machine Learning*
+
+AI-powered scam detection system protecting elderly residents from financial fraud. Engineered real-time audio processing pipeline for VOIP call monitoring and built iOS mobile app for nursing home caregivers using React Native.
+
+**🏆 Winner - MAIA Demo Day:** Selected by Netflix & Google engineers as best project for being grounded, concrete, impactful, and well-researched with tangible demos.
+
+**My Contributions:**
+- Audio preprocessing pipeline (noise reduction, bandpass filtering, speech-to-text)
+- iOS mobile interface (alert dashboard, real-time notifications)
+
+
+---
+
 ### 📊 Nigeria Education Access Analysis
 *Python | Pandas | Matplotlib | Seaborn*
 
@@ -59,8 +73,8 @@ Natural language processing analysis of customer reviews to extract insights abo
 
 **Ernst & Young** — Technology Risk Intern | *Summer 2025*
 
-**USC Marshall** — BS Business Administration (Finance) | *GPA: 3.95*  
-Minors: Data Science, Applied Analytics
+**USC Marshall** — BS Business Administration (Finance) | *GPA: 3.96*  
+Minors: Applied Analytics
 
 ---
 
@@ -70,4 +84,4 @@ Minors: Data Science, Applied Analytics
 
 ---
 
-*Last updated: October 2025*
+*Last updated: January 2026*
