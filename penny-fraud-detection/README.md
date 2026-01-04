@@ -1,6 +1,7 @@
 # 🛡️ Project Penny: AI-Driven Security for Seniors
 
-**Winner: Best Project @ USC MAIA Demo Day** *Recognised by a judging panel of engineers from Netflix and Google for its technical rigour, empathetic design, and real-world scalability.*
+**Winner: Best Project @ USC MAIA Demo Day** 
+*Recognised by a judging panel of engineers from Netflix and Google for its technical rigour, empathetic design, and real-world scalability.*
 
 ---
 
