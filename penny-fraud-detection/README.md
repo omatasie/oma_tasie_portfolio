@@ -10,7 +10,7 @@ Recognised by a judging panel of engineers from Netflix and Google for technical
 
 * **Organisation:** Marshall AI Association (MAIA) - Finance Department, USC
 * **Project Duration:** Fall 2025
-* **Role:** Audio Processing Engineer & iOS Frontend Developer
+* **Key Roles:** Audio Processing Engineer & iOS Frontend Developer
 * **Technologies:** Raspberry Pi 5, Python, React Native, Expo Go, DistilBERT, Supabase
 
 ## Problem Statement
@@ -114,4 +114,4 @@ I co-developed the caregiver-facing interface focused on high-speed monitoring a
 
 ---
 
-*Developed by Oma Tasie and Team @ USC Marshall AI Association.* **Because Every Penny Matters.**
+*Developed by Oma Tasie-Amadi and Team @ USC Marshall AI Association.* **Because Every Penny Matters.**
