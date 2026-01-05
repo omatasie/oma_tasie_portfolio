@@ -19,7 +19,7 @@ AI-powered scam detection system protecting elderly residents from financial fra
 - Audio preprocessing pipeline (noise reduction, bandpass filtering, speech-to-text)
 - iOS mobile interface (alert dashboard, real-time notifications)
 
-[View Project Details](./penny-fraud-detection) | [View Case Study PDF](./penny-fraud-detection/MAIA_FINANCE_F25_PENNY_PROJECT.pdf)
+[View Project Repository](https://github.com/omatasie/penny-fraud-detection-system) | [View Case Study PDF](https://github.com/omatasie/penny-fraud-detection-system/blob/main/MAIA_PENNY_PROJECT.pdf)
 
 ---
 
@@ -39,7 +39,7 @@ Led a six-person team evaluating the effectiveness of support programmes for Cys
 
 **Key Finding:** Administrative and Legal certification programmes showed significantly higher success rates than Creative Design programmes (p=0.0429), informing resource allocation recommendations.
 
-[View Case Study →](./claires-place-foundation)
+[View Case Study](./claires-place-foundation)
 
 ---
 
