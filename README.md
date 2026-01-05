@@ -19,7 +19,7 @@ AI-powered scam detection system protecting elderly residents from financial fra
 - Audio preprocessing pipeline (noise reduction, bandpass filtering, speech-to-text)
 - iOS mobile interface (alert dashboard, real-time notifications)
 
-[View Project Repository](https://github.com/omatasie/penny-fraud-detection-system) | [View Case Study (Google Drive)](https://drive.google.com/file/d/1mkdHl195nxZl4Q1QlQAQ8YxHY1EbaRjb/view?usp=sharing)
+[View Project Repository](https://github.com/omatasie/penny-fraud-detection-system) | [View Demo Slideshow (Google Drive)](https://drive.google.com/file/d/1mkdHl195nxZl4Q1QlQAQ8YxHY1EbaRjb/view?usp=sharing)
 
 ---
 
