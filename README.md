@@ -15,7 +15,7 @@ AI-powered scam detection system protecting elderly residents from financial fra
 
 **🏆 Winner - MAIA Demo Day:** Selected by a panel of Netflix and Google engineers as the top project for its technical rigour, market viability, and tangible social impact.
 
-**My Contributions:**
+**My Key Contributions:**
 - Audio preprocessing pipeline (noise reduction, bandpass filtering, speech-to-text)
 - iOS mobile interface (alert dashboard, real-time notifications)
 
