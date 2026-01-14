@@ -4,13 +4,13 @@ Machine learning system for predicting customer purchase behavior in online shop
 
 ## Project Overview
 
-**Course:** TAC 216 - Applied Python for Data Science, USC  
-**Objective:** Build an end-to-end ML pipeline to analyze e-commerce customer behavior and predict purchase probability  
+**Course:** TAC 216 - Applied Python, USC  
+**Objective:** Build an end-to-end ML pipeline to analyse e-commerce customer behaviour and predict purchase probability  
 **Techniques:** K-Nearest Neighbors (KNN), feature scaling, train-test validation
 
 ## Problem Statement
 
-Online retailers need to understand which website visitors are likely to make purchases to optimize marketing spend, personalize experiences, and improve conversion rates. This project analyzes customer session data to predict whether a visitor will complete a transaction.
+Online retailers need to understand which website visitors are likely to make purchases to optimise marketing spend, personalise experiences, and improve conversion rates. This project analyses customer session data to predict whether a visitor will complete a transaction.
 
 ## Dataset
 
@@ -61,7 +61,7 @@ class ShopAnalytics:
 
 **Feature Engineering:**
 - Convert visitor type to categorical variable
-- Normalize continuous features for KNN
+- Normalise continuous features for KNN
 - Create train-test splits with stratification
 
 ### 2. Scientific Computation
