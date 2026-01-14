@@ -46,7 +46,7 @@ Led a six-person team evaluating the effectiveness of support programmes for Cys
 ### 🛒 E-Commerce Conversion Prediction
 *Python | Machine Learning | K-Nearest Neighbors | scikit-learn*
 
-Machine learning system predicting customer purchase behavior using K-Nearest Neighbors classification. Analyzes 12,000+ shopping sessions to identify high-probability converters through feature engineering, StandardScaler normalization, and train-test validation.
+Machine learning system predicting customer purchase behavior using K-Nearest Neighbors classification. Analyzes 20,000+ shopping sessions to identify high-probability converters through feature engineering, StandardScaler normalization, and train-test validation.
 
 **Key Finding:** Returning visitors show 2.3x higher conversion rates with significantly higher page values and lower exit rates than new visitors.
 
