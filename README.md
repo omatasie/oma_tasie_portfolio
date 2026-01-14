@@ -28,7 +28,7 @@ AI-powered scam detection system protecting elderly residents from financial fra
 
 Analysis of 20+ years of World Bank education data examining enrolment trends, gender disparities, and regional differences in educational access.
 
-[View Project Details](./nigeria-education-analysis)
+[View Project](./nigeria-education-analysis)
 
 ---
 
@@ -40,6 +40,17 @@ Led a six-person team evaluating the effectiveness of support programmes for Cys
 **Key Finding:** Administrative and Legal certification programmes showed significantly higher success rates than Creative Design programmes (p=0.0429), informing resource allocation recommendations.
 
 [View Case Study](./claires-place-foundation)
+
+---
+
+### 🛒 E-Commerce Conversion Prediction
+*Python | Machine Learning | K-Nearest Neighbors | scikit-learn*
+
+Machine learning system predicting customer purchase behavior using K-Nearest Neighbors classification. Analyzes 12,000+ shopping sessions to identify high-probability converters through feature engineering, StandardScaler normalization, and train-test validation.
+
+**Key Finding:** Returning visitors show 2.3x higher conversion rates with significantly higher page values and lower exit rates than new visitors.
+
+[View Project](./ecommerce-conversion-prediction)
 
 ---
 
