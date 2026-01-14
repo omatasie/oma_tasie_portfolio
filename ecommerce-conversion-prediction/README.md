@@ -15,7 +15,7 @@ Online retailers need to understand which website visitors are likely to make pu
 ## Dataset
 
 **Source:** [Kaggle Women's E-Commerce Clothing Reviews](https://www.kaggle.com/datasets/mexwell/womens-e-commerce-clothing-reviews)  
-**Size:** 12,000+ customer sessions  
+**Size:** 20,000+ customer sessions  
 **Features Used:**
 - `PageValues` - Average value of pages visited during session
 - `ExitRates` - Rate at which users exit from pages
