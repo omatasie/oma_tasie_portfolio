@@ -14,7 +14,7 @@ Online retailers need to understand which website visitors are likely to make pu
 
 ## Dataset
 
-**Source:** [Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)  
+**Source:** [Kaggle Women's E-Commerce Clothing Reviews]([https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset](https://www.kaggle.com/datasets/mexwell/womens-e-commerce-clothing-reviews/data?select=Women_s_E-Commerce_Clothing_Reviews_1594_1.csv))  
 **Size:** 12,000+ customer sessions  
 **Features Used:**
 - `PageValues` - Average value of pages visited during session
