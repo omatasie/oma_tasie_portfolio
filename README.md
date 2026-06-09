@@ -8,7 +8,7 @@ Business, Data Science, and Applied Analytics student at the University of South
 
 ## Projects
 
-### 🤖 Project Penny: AI Fraud Detection System
+### 🤖 Penny: AI Fraud Detection System
 *Python | Audio Processing | React Native | Raspberry Pi | Machine Learning*
 
 AI-powered scam detection system protecting elderly residents from financial fraud. Engineered real-time audio processing pipeline for VOIP call monitoring and built iOS mobile app for nursing home caregivers using React Native.
