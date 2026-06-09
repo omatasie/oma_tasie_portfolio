@@ -107,11 +107,7 @@ nigeria-education-analysis/
 - Comparative analysis with peer countries (Ghana, Kenya, Senegal)
 - Qualitative research on barriers to girls' education
 
-## About
-
-This project was completed as part of my data science portfolio while pursuing a BS in Business Administration (Finance) with minors in Data Science and Applied Analytics at USC Marshall School of Business.
-
-**Context:** As someone from Nigeria applying to graduate programs in data science and business analytics, I wanted to apply my analytical skills to understanding educational challenges in my home country. This project combines my technical skills with my passion for education equity.
+**Context:** I wanted to apply my analytical skills to understanding educational challenges in my home country. This project combines my technical skills with my passion for education equity.
 
 ## Contact
 
